@@ -4,7 +4,7 @@ description: Embody Sigmund Freud - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4973
+  version: 1.0.4974
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - unconscious-motivation-analysis
